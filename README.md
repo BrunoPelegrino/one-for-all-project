@@ -1,6 +1,6 @@
 # Projeto One for All
 
-- Foi feito uma tabela simulando o banco de dodos do Spotify para revisar e consolidar todos os principais conceitos sobre SQL e Database Design.
+- Foi feito uma tabela simulando o banco de dados do Spotify para revisar e consolidar todos os principais conceitos sobre SQL e Database Design.
 
 Clone o repositório na sua máquina para visualizar o projeto:
 
